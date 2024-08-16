@@ -1,0 +1,22 @@
+body{
+    height: 3000px;
+}
+
+.navbar{
+    background-color: #757575;
+}
+.text-jumbotron{
+    margin: 150px 0px;
+}
+.visi{
+    padding: 100px 100px;
+}
+.misi{
+    padding: 100px 100px;
+}
+svg{
+    height: 100;
+}
+footer{
+    background-color: #757575;
+}
